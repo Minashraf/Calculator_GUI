@@ -203,7 +203,7 @@ public class GraphicalInterface {
                 if(next!=null)
                 {
                     Display.setText(next);
-                    Result.setText(calcul.getResult());
+                    Result.setText(calcul.getResult() );
                 }
                 else
                     JOptionPane.showMessageDialog(Frame,

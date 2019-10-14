@@ -10,7 +10,6 @@ public class CalculatorImplementation implements Calculator {
     private String [] Result=new String[5];
     private double[] first=new double[5];
     private double[] second=new double[5];
-    
     private int[] operator=new int[5];
 
     @Override
