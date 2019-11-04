@@ -1,6 +1,6 @@
 package eg.edu.alexu.csd.oop.calculator.cs67;
 
-
+/* what is this*/
 public interface Calculator {
     /* Take input from user */
     void input(String s);
